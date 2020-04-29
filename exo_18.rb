@@ -14,7 +14,7 @@ until x == 50                                       #/ x egal á 50
 		faux_list [x] = " jean.dupont.0#{x}@email.mx "
 	end
 end
-print faux_list
+puts faux_list
 
 
 

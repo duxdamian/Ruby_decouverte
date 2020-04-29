@@ -5,8 +5,7 @@
 puts "Donne-moi un nombre"
 nombre = gets.chomp.to_i
 
-total = 0
+
 nombre.times do
-  total += 1
-  puts total.to_s
+  puts "Salut, ça farte ?"
 end

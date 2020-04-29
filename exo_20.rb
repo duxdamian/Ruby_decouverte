@@ -7,7 +7,7 @@ x = 0
 pyramide = []
 until x == Integer(etages)
     y = 0
-    direction = "#"
+    direction = ""
     until y == x + 1
         direction << "#"
         y += 1

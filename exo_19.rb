@@ -21,6 +21,6 @@ until
   end
 end
 
-print faux_list_pair
+puts faux_list_pair
 
 
